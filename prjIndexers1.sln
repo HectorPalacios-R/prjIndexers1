@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjIndexers1", "prjIndexers1\prjIndexers1.csproj", "{FC4414A6-4D6F-461F-915C-75B0C34C3F2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingIndexes", "TestingIndexes\TestingIndexes.csproj", "{EAFD4307-1B66-472B-8949-B355B247834F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjIndexes2", "prjIndexes2\prjIndexes2.csproj", "{8B97E95E-55D1-4B5F-BCE4-111E2A8A1C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogTesting", "DogTesting\DogTesting.csproj", "{085D33CB-C326-46F7-9A6D-B6C38E5CC45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC4414A6-4D6F-461F-915C-75B0C34C3F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4414A6-4D6F-461F-915C-75B0C34C3F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4414A6-4D6F-461F-915C-75B0C34C3F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4414A6-4D6F-461F-915C-75B0C34C3F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFD4307-1B66-472B-8949-B355B247834F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFD4307-1B66-472B-8949-B355B247834F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFD4307-1B66-472B-8949-B355B247834F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFD4307-1B66-472B-8949-B355B247834F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B97E95E-55D1-4B5F-BCE4-111E2A8A1C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B97E95E-55D1-4B5F-BCE4-111E2A8A1C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B97E95E-55D1-4B5F-BCE4-111E2A8A1C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B97E95E-55D1-4B5F-BCE4-111E2A8A1C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085D33CB-C326-46F7-9A6D-B6C38E5CC45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085D33CB-C326-46F7-9A6D-B6C38E5CC45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085D33CB-C326-46F7-9A6D-B6C38E5CC45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085D33CB-C326-46F7-9A6D-B6C38E5CC45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
